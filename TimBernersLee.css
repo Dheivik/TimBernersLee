@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#hello{
+    background: linear-gradient(#c0ffee 0%,#216c5c 100%);
+    width: 100%;
+    height: 80%;
+}
+#timg{
+    border-radius: 50%;
+}
+#tpara{
+    padding:50px;
+}
+#line{
+    height: 7px;
+    width: 100px;
+    background-color: black;
+    margin: 8px auto;
+}
